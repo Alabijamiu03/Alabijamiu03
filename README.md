@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alabi Tayo
-- 👀 I’m interested in python programming (machine learning) 
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in programming languages 
+- 🌱 I’m currently learning Phyhon programming language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me alabitayo26@gmail.com 
 
