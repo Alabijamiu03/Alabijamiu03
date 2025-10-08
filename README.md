@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Alabi Tayo
-- 👀 I’m interested in programming languages 
-- 🌱 I’m currently learning Phyhon programming language
+- 👋 Hi, I’m @Alabi Jamiu
+- 👀 I’m interested in web3/decentralized development
+- 🌱 I’m currently learning Solidity programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me alabitayo26@gmail.com 
+- 📫 How to reach me alabijamiu03gmail.com
 
-<!---
-Alabitayo/Alabitayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
